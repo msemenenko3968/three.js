@@ -1,0 +1,7 @@
+{
+  "name": "Threejs",
+  "version": "1.0.0",
+  "dependencies": {
+    "three": "^0.134.0"
+  }
+}
